@@ -1,4 +1,4 @@
-name = input("What's your name")
+name = input("What's your name? ")
 
 match name:
     case "Harry" | "Hermione" | "Ron":
